@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ct{
+    height: 100%;
+    width: 100%;
+    display: table ;
+}
+.contact-section{
+    display: table-cell ;
+    vertical-align: middle ;
+}
